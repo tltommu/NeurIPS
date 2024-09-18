@@ -42,7 +42,7 @@ This project uses the following Python libraries:
 
 - **notebook.ipynb**: Contains the entire processing and model pipeline, including feature engineering, signal correction, and Ridge regression training.
 - **pre_train**: Pre-processed training data used for model training.
-- **submission_7.csv**: Submission file for the challenge containing predictions for the test set.
+- **submission.csv**: Submission file for the challenge containing predictions for the test set.
 
 ## How to Run the Code
 
